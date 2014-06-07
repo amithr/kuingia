@@ -110,6 +110,9 @@ kuingia.editUserData(email, userObject, function(status, response){
 	}
 })
 ```
+To actually edit an existing user object, you could simply
+retrieve the JSON user object and edit that and reinsert into the system. Making
+that process less cumbersome is a task for the future.
 
 
 
