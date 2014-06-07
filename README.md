@@ -1,9 +1,11 @@
-# Kuingia ("to enter" in Swahili)
+# Kuingia
 
 ## Project
 
 This is project meant for developers to get a user login system up and running instantly
 in node. It's supposed to be intuitive and simply, while still maintaining a minimum level of functionality. This is objviously not meant for production.
+
+Oh and 'kuingia' means 'to enter' in Swahili.
 
 ## Documentation
 
