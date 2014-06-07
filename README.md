@@ -52,6 +52,7 @@ kuingia.validateUser(email, password, function(status, response){
 		console.log(response);
 	}
 })
+```
 
 ### Delete a user
 
