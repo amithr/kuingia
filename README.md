@@ -1,5 +1,4 @@
-Kuingia ("to enter" in Swahili)
-_____________________
+# Kuingia ("to enter" in Swahili)
 
 ## Project
 
