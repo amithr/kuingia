@@ -1,6 +1,6 @@
 {
   "name": "kuingia",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A quick and easy mongo-based login system for dev use",
   "entry point":"index.js",
   "test command":"npm test",

@@ -2,8 +2,8 @@
 
 ## Project
 
-This is project meant for developers to get a user login system up and running instantly
-in node. It's supposed to be intuitive and simply, while still maintaining a minimum level of functionality. This is obviously not meant for production.
+This is a project meant for developers to get a user login system up and running instantly
+in node. It's supposed to be intuitive and simple, while still maintaining a minimum level of functionality. This is obviously not meant for production.
 
 Oh and 'kuingia' means 'to enter' in Swahili.
 
